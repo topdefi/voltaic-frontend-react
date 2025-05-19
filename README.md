@@ -1,1 +1,0 @@
-# voltaic-frontend-react
